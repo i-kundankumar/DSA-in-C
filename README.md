@@ -14,7 +14,7 @@ C
 ## How to Use
 - Clone the repository to your local machine:
   ```bash
-  git clone https://github.com/your-username/repository-name.git
+  git clone https://github.com/i-kundankumar/DSA-in-C.git
 Navigate to the desired folder (Assignments, Experiments, or Projects).
 Open the respective files and run them using your preferred IDE or command-line tools.
 ## License
